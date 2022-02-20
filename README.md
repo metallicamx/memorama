@@ -1,10 +1,9 @@
 # memorama
 This is the kids' game Memorama as we traditionally call it @ mx whereas, in some other countries, it's also known as the Concentration or Matching Pairs game.
 
-/*****************************************************/
-/*****************************************************/
+<hr>
 
-Notes from February 20th, 2022:
+<h3>Notes from February 20th, 2022:</h3>
 
 I've already uploaded index.php.
 
@@ -12,5 +11,4 @@ This first step have in one file the initial <b>.css</b> and <b>.js</b> componen
  
 Cheers!
 
-/*****************************************************/
-/*****************************************************/
+<hr>
