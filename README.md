@@ -1,5 +1,5 @@
 # memorama
-This is the kids' game Memorama as we traditionally call it @ mx whereas, in some other countries, it's also known as the Concentration or Matching Pairs game.
+This is the traditional kids' game <b>Memorama</b> as we usually name it @ mx whereas, in some other countries, it's well known as the <i>Concentration</i> or <i>Matching Pairs</i> game.
 
 <hr>
 
