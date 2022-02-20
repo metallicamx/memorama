@@ -1,7 +1,8 @@
 # memorama
 This is the kids' game Memorama as we traditionally call it @ mx whereas, in some other countries, it's also known as the Concentration or Matching Pairs game.
 
-/** Notes from February 20th, 2022
+/** 
+ * Notes from February 20th, 2022
  *
  * I've already uploaded index.php.
  * 
@@ -11,6 +12,7 @@ This is the kids' game Memorama as we traditionally call it @ mx whereas, in som
  * work in this first advance.
  *
  * Cheers!
+ * 
  */
 
 
