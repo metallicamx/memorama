@@ -7,7 +7,7 @@ This is the traditional kids' game <b>Memorama</b> as we usually name it @ mx wh
 
 I've already uploaded index.php.
 
-This first step have in one file the initial <b>.css</b> and <b>.js</b> components. Althought the file is a <b>.php</b> type file doesn't include any functionality from PHP library so you can rename it as <b>.html</b> type to look how does it work in your browser in this first advance. 
+This first step have in one file the initial <b>.css</b> and <b>.js</b> components. Althought the file is a <b>.php</b> type file doesn't include any functionality from PHP library so you can rename it as <b>.html</b> type to look, in your browser, how does it work in this first advance. 
  
 Cheers!
 
