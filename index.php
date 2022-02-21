@@ -144,8 +144,8 @@
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non aliquet justo.
 			</div>
 			<div class="flex_box box_center flex_colum content_item">
-				<p>4</p>
-				<p>44</p>
+				<p>This is a change A</p>
+				<p>This is a change B</p>
 			</div>
 		</div>
 	</div>
